@@ -122,7 +122,7 @@ moncity-data-warehouse/
 │
 ├── dashboard.pdf
 │ 
-├── star_schema.png
+├── snowflake_schema.png
 │ 
 ├── analysis_report.pdf
 │
